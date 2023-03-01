@@ -6,7 +6,7 @@
 ## Problem 
 Discrimination is one of the most important problems in the internet. Solutions generally does not include discrimination towards health and mental health.
 Studies showed that;
-_"Young adults ages 18 to 28 years old who have experienced frequent discrimination have a higher risk of short-term and long-term behavioral and mental health problems, according to a new UCLA study."_
+_"Young adults ages 18 to 28 years old who have experienced frequent discrimination have a higher risk of short-term and long-term behavioral and mental health problems, according to a new UCLA study."_ (https://www.everydayhealth.com/emotional-health/young-people-who-experience-frequent-discrimination-more-likely-to-have-behavioral-and-mental-problems/)
 
 ### Aim:
 Discrimination Detection uses natural language processing (NLP) to analyse text from social media and provide feedback to users on the level of discrimination in their text, along with suggestions for how to rewrite it.
