@@ -1,5 +1,8 @@
 # **Discrimination Detector**
 
+![alt text](https://images.everydayhealth.com/images/young-people-experience-frequent-discrimination-behavioral-mental-problems-1440x810.jpg?w=1110)
+
+
 ## Dataset
     - Twitter Webscraping with Snscrape (https://github.com/JustAnotherArchivist/snscrape)
     - 105.210 discriminatory tweets -> 104.029 after duplicates
@@ -8,6 +11,8 @@
 
 ## Problem 
     - Discrimination is one of the most important problems in the internet.
+    - Studies showed that;
+      Young adults ages 18 to 28 years old who have experienced frequent discrimination have a higher risk of short-term and long-term behavioral and mental health problems, according to a new UCLA study.
     - Solutions generally does not include discrimination towards health and mental health.
     - Discrimination Detection uses natural language processing (NLP) to analyse text from social media and provide feedback to users on the level of discrimination in their text, along with suggestions for how to rewrite it.
         - Number of likes and retweets between tweets that are neutral, positive and discriminatory
