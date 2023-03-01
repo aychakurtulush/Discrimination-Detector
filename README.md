@@ -5,7 +5,7 @@
 
 ## Dataset
     - Twitter Webscraping with Snscrape (https://github.com/JustAnotherArchivist/snscrape)
-    - 105.210 discriminatory tweets -> 105.205  after duplicates
+    - 105.210 discriminatory tweets
     - 100.000 control group (without specific discriminatory word, random tweets)
 
 ## Problem 
