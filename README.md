@@ -31,7 +31,7 @@ Discrimination Detection uses natural language processing (NLP) to analyse text 
 6. Evaluate the performance of the model using various metrics such as accuracy, precision, recall, and F1-score. 
 7. Use cross-validation techniques to ensure the model does not overfit the training data.
 8. Develop an user interface that allows users to input text and receive feedback on the level of discrimination in their writing, along with suggestions.
-9. Present the project.
+9. Preperation of presentation and presenting the project.
 
 Future Step 1 - Gather feedback from users and apply it to enhance the machine learning model and user interface over time. 
 Future Step 2 - Regularly update the model with new data and capabilities to ensure it stays current with the latest trends and language used on social media.
