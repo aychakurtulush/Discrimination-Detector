@@ -4,6 +4,7 @@
     - Twitter Webscraping with Snscrape (https://github.com/JustAnotherArchivist/snscrape)
     - 105.210 discriminatory tweets -> 104.029 after duplicates
     - Around 50.000 control group (without specific discriminatory word, random tweets)
+    - 46.017 tweet from a dataset could also be added (https://www.kaggle.com/code/vinayak4444/cyberbullying-detection-using-nlp/data)
 
 ## Problem 
     - Discrimination is one of the most important problems in the internet.
