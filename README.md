@@ -17,19 +17,21 @@ Discrimination Detection uses natural language processing (NLP) to analyse text 
 - 100.000 control group (without specific discriminatory word, random tweets)
 
 ### Analysis:
-- Discrimination level detection & suggestions
-- Number of likes and retweets between tweets that are neutral, positive and discriminatory
-- Analysis of most liked and retweeted tweets
+1. Discrimination level detection & suggestions
+2. Sentiment Analysis (negative - neutral - positive)
+  2.1. Number of likes and retweets between tweets that are negative - neutral - positive
+  2.2. Analysis of most liked and retweeted tweets
 
 ## Roadmap
 1. Scrap a diverse dataset of discriminatory language from Twitter covering gender, race, ethnicity, sexual orientation, mental health, and health related keywords.
 2. Clean the data by removing unnecessary words, urls, emoji and characters.
 3. Extract key features from text to train ML models, using approaches bag of words, TF-IDF.
-4. Train ML models on extracted features to classify given text by discrimination level and give suggestion based on that level.
-5. Evaluate the performance of the model using various metrics such as accuracy, precision, recall, and F1-score. 
-6. Use cross-validation techniques to ensure the model does not overfit the training data.
-7. Develop an user interface that allows users to input text and receive feedback on the level of discrimination in their writing, along with suggestions.
-8. Present the project.
+4. Sentiment Analysis with the dataset ( for both discriminatory and control groups)
+5. Train ML models on extracted features to classify given text by discrimination level and give suggestion based on that level.
+6. Evaluate the performance of the model using various metrics such as accuracy, precision, recall, and F1-score. 
+7. Use cross-validation techniques to ensure the model does not overfit the training data.
+8. Develop an user interface that allows users to input text and receive feedback on the level of discrimination in their writing, along with suggestions.
+9. Present the project.
 
 Future Step 1 - Gather feedback from users and apply it to enhance the machine learning model and user interface over time. 
 Future Step 2 - Regularly update the model with new data and capabilities to ensure it stays current with the latest trends and language used on social media.
