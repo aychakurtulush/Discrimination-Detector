@@ -3,12 +3,6 @@
 
 ![alt text](https://images.everydayhealth.com/images/young-people-experience-frequent-discrimination-behavioral-mental-problems-1440x810.jpg?w=1110)
 
-
-## Dataset
-- Twitter Webscraping with Snscrape (https://github.com/JustAnotherArchivist/snscrape)
-- 105.210 discriminatory tweets
-- 100.000 control group (without specific discriminatory word, random tweets)
-
 ## Problem 
 Discrimination is one of the most important problems in the internet. Solutions generally does not include discrimination towards health and mental health.
 Studies showed that;
@@ -16,6 +10,11 @@ _"Young adults ages 18 to 28 years old who have experienced frequent discriminat
 
 ### Aim:
 Discrimination Detection uses natural language processing (NLP) to analyse text from social media and provide feedback to users on the level of discrimination in their text, along with suggestions for how to rewrite it.
+
+### Dataset
+- Twitter Webscraping with Snscrape (https://github.com/JustAnotherArchivist/snscrape)
+- 105.210 discriminatory tweets
+- 100.000 control group (without specific discriminatory word, random tweets)
 
 ### Analysis:
 - Discrimination level detection & suggestions
