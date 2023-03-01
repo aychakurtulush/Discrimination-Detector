@@ -6,7 +6,7 @@
 ## Dataset
     - Twitter Webscraping with Snscrape (https://github.com/JustAnotherArchivist/snscrape)
     - 105.210 discriminatory tweets -> 105.205  after duplicates
-    - Around 100.000 control group (without specific discriminatory word, random tweets)
+    - 100.000 control group (without specific discriminatory word, random tweets)
 
 ## Problem 
     - Discrimination is one of the most important problems in the internet.
