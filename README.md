@@ -1,4 +1,4 @@
-# **Discrimination Detection**
+# **Discrimination Detector**
 
 ## Dataset
     - Twitter Webscraping with Snscrape (https://github.com/JustAnotherArchivist/snscrape)
