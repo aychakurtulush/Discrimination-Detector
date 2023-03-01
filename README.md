@@ -34,6 +34,7 @@ Discrimination Detection uses natural language processing (NLP) to analyse text 
 9. Preperation of presentation and presenting the project.
 
 Future Step 1 - Gather feedback from users and apply it to enhance the machine learning model and user interface over time. 
+
 Future Step 2 - Regularly update the model with new data and capabilities to ensure it stays current with the latest trends and language used on social media.
 
 
