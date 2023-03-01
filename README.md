@@ -4,7 +4,7 @@
 ![alt text](https://images.everydayhealth.com/images/young-people-experience-frequent-discrimination-behavioral-mental-problems-1440x810.jpg?w=1110)
 
 ## Problem 
-Discrimination is one of the most important problems in the internet. Solutions generally does not include discrimination towards health and mental health.
+Discrimination is one of the most important problems in social media. Solutions generally does not include discrimination towards health and mental health.
 Studies showed that;
 _"Young adults ages 18 to 28 years old who have experienced frequent discrimination have a higher risk of short-term and long-term behavioral and mental health problems, according to a new UCLA study."_ (https://www.everydayhealth.com/emotional-health/young-people-who-experience-frequent-discrimination-more-likely-to-have-behavioral-and-mental-problems/)
 
