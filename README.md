@@ -13,7 +13,7 @@ Discrimination Detection uses natural language processing (NLP) to analyse text 
 
 ### Dataset
 - Twitter Webscraping with Snscrape (https://github.com/JustAnotherArchivist/snscrape)
-- 105.210 discriminatory tweets
+- 210.000 discriminatory tweets
 - 100.000 control group (without specific discriminatory word, random tweets)
 
 ### Analysis:
