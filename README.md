@@ -36,4 +36,5 @@ Future Step 1 - Gather feedback from users and apply it to enhance the machine l
 
 Future Step 2 - Regularly update the model with new data and capabilities to ensure it stays current with the latest trends and language used on social media.
 
-
+## Presentation
+https://prezi.com/view/DUydh8GOBVuu7uOqdGRM/
