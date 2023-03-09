@@ -17,10 +17,9 @@ Discrimination Detection uses natural language processing (NLP) to analyse text 
 - 100.000 control group (without specific discriminatory word, random tweets)
 
 ### Analysis:
-1. Discrimination level detection & suggestions
-2. Sentiment Analysis (negative - neutral - positive)
-  2.1. Number of likes and retweets between tweets that are negative - neutral - positive
-  2.2. Analysis of most liked and retweeted tweets
+1. Discrimination category detection
+2. Discrimination level detection & suggestions
+  2.1. Analysis of most liked and retweeted tweets
 
 ## Roadmap
 1. Scrap a diverse dataset of discriminatory language from Twitter covering gender, race, ethnicity, sexual orientation, mental health, and health related keywords.
